@@ -1,0 +1,22 @@
+/*email*/
+.inner-email{
+    display: flex;
+    flex-direction: column;
+    
+}
+/*block*/
+
+#block {
+  position: relative;
+  margin-top: 50px;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+}
+
+#smallblock {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
